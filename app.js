@@ -16,6 +16,9 @@ app.use(express.json());
 app.use(logger);
 
 app.use('/users', userRouter);
+app.get("/",(req,res)=>{
+    res.send("server is running..")
+})
 
 // middleware to handle 404 errors
 app.use(errorRoute);
