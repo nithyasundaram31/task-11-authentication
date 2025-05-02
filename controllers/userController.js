@@ -58,7 +58,7 @@ const userController = {
             }
 
             // create a token for the user
-            const token = jwt.sign({ id: user._id }, JWT_SECRET, { expiresIn: '1h' });
+            const token = jwt.sign({ id: user._id }, JWT_SECRET, { expiresIn: '1hr' });
 
             // send a response back to the client
             res.status(200).json({ message: 'Login successful', token });

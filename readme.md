@@ -17,3 +17,10 @@ Technologies used:
 -dotenv
 -bcrypt
 -jsonwebtoken 
+
+Render Api end points:
+https://task-11-authentication-2.onrender.com/users/register
+https://task-11-authentication-2.onrender.com/users/login
+https://task-11-authentication-2.onrender.com/users/logout
+https://task-11-authentication-2.onrender.com/users/me
+
