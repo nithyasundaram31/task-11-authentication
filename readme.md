@@ -19,8 +19,11 @@ Technologies used:
 -jsonwebtoken 
 
 Render Api end points:
-https://task-11-authentication-2.onrender.com/users/register
-https://task-11-authentication-2.onrender.com/users/login
-https://task-11-authentication-2.onrender.com/users/logout
-https://task-11-authentication-2.onrender.com/users/me
+1) https://task-11-authentication-2.onrender.com/users/register
+
+2) https://task-11-authentication-2.onrender.com/users/login
+
+3) https://task-11-authentication-2.onrender.com/users/logout
+
+4) https://task-11-authentication-2.onrender.com/users/me
 
